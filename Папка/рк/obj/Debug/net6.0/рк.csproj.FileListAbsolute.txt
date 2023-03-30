@@ -1,0 +1,15 @@
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\bin\Debug\net6.0\рк.exe
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\bin\Debug\net6.0\рк.deps.json
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\bin\Debug\net6.0\рк.runtimeconfig.json
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\bin\Debug\net6.0\рк.dll
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\bin\Debug\net6.0\рк.pdb
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\obj\Debug\net6.0\рк.csproj.AssemblyReference.cache
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\obj\Debug\net6.0\рк.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\obj\Debug\net6.0\рк.AssemblyInfoInputs.cache
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\obj\Debug\net6.0\рк.AssemblyInfo.cs
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\obj\Debug\net6.0\рк.csproj.CoreCompileInputs.cache
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\obj\Debug\net6.0\рк.dll
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\obj\Debug\net6.0\refint\рк.dll
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\obj\Debug\net6.0\рк.pdb
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\obj\Debug\net6.0\рк.genruntimeconfig.cache
+C:\Users\Pikac\OneDrive\Рабочий стол\Папка\рк\obj\Debug\net6.0\ref\рк.dll
